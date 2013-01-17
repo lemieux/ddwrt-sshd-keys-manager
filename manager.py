@@ -1,15 +1,13 @@
-"""
 
-.. module:: 	DDWRT-RSA-MANAGER
-   :platform: 	Unix
-   :synopsis: 	This simple script updates the authorized SSH 
-   			  	keys of a DD-WRT device from a JSON key database.
+#   **module** :     DDWRT-RSA-MANAGER  
+#   **platform** :   Unix  
+#   **description** :   This simple script updates the authorized SSH keys of a DD-WRT device from a JSON key database.  
+#
+#   **author** : Gregory A. Lussier <greg@gregoryalussier.com>  
 
-.. moduleauthor:: Gregory A. Lussier <greg@gregoryalussier.com>
-
-"""
 
 #!/usr/bin/python
+
 import paramiko
 import os
 import simplejson as json
