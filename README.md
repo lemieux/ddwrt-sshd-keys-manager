@@ -1,6 +1,6 @@
 # DD-WRT SSHD Authorized Keys Manager
 
-[Gregory A. Lussier](https://gregoryalussier.com)
+Author: [Gregory A. Lussier](https://gregoryalussier.com)
 
 ## Introduction
 
